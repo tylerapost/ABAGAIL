@@ -34,12 +34,7 @@ import opt.prob.MIMIC;
 import opt.prob.ProbabilisticOptimizationProblem;
 import shared.FixedIterationTrainer;
 
-/**
- *
- * @author Andrew Guillory gtg008g@mail.gatech.edu
- * @version 1.0
- */
-public class tsp {
+ public class tsp {
     /** The n value */
     private static final int N = 50;
 
