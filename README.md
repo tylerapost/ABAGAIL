@@ -1,3 +1,13 @@
+Tyler Apostolico - Assignment 2
+
+To run various algorithms, see src/main/
+If you run any of these files as java applications it will output results accordingly. 
+
+1. cd src/main/
+2. pick your file
+3. run as java application
+
+
 ABAGAIL
 =======
 
