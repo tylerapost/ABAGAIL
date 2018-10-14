@@ -7,6 +7,7 @@ If you run any of these files as java applications it will output results accord
 2. pick your file
 3. run as java application
 
+*All code outside of this (main) directory was not done by me*
 
 ABAGAIL
 =======
